@@ -1,0 +1,250 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Claire Dornic",
+    "label": "Développeuse front-end à LATELIER - Agence Web & communication digitale Nantes",
+    "image": "",
+    "email": "dornic.claire@gmail.com",
+    "phone": "",
+    "url": "clairedornic.fr",
+    "summary": "Je travaille actuellement en alternance au sein de l'entreprise LATELIER dans le cadre de mon master développement web à l'ECV Digital Nantes.\n\n\n#developmentfrontend#dev#alternance#alt#developpeurweb#developpeuseweb#webdeveloper#web#frontend#html#css#js#vuejs#react#gsap#locomotive#cms#wordpress#alternance#nantes#paris",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "claire-dornic-32900215a",
+        "url": "https://www.linkedin.com/in/claire-dornic-32900215a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LATELIER - Agence Web & communication digitale Nantes",
+      "position": "Développeuse front-end",
+      "startDate": "2021-09-30",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/agence-latelier/",
+      "location": "Nantes, Pays de la Loire, France"
+    },
+    {
+      "name": "4Beez",
+      "position": "Développeuse front end junior",
+      "startDate": "2020-09-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/4beez/"
+    },
+    {
+      "name": "Agence Appaloosa",
+      "position": "Développeuse web junior",
+      "startDate": "2019-09-30",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Mission principale : développements de thèmes et de plugins sous Wordpress et d’applications\ncouplées à Wordpress\n● Développement de nouvelles fonctionnalités Front-End & Back-End.\n● Conception fonctionnelle en tandem avec le développeur/intégrateur\n● Intégration HTML5, CSS3 et javascript (jQuery) ( + Responsive )\n● Installation Wordpress + thème + plugins\n● Gestion des DNS\n● Mise en place et optimisation d’un workflow",
+      "url": "https://www.linkedin.com/company/agence-appaloosa/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Scroll",
+      "position": "Présidente ",
+      "startDate": "2019-06-30",
+      "endDate": "2020-08-31",
+      "summary": "L’association permet à ses membres de s’améliorer dans les différents domaines de l’audiovisuel en dehors des cours proposés par l’IUT de Laval. Chacun des membres est alors libre de proposer un projet aux autres, afin de s’améliorer tous ensemble dans les différents domaines que celui-ci touchera. L’association permet donc de mettre en commun des ressources matérielles et humaines. Le Scroll se tient au courant des divers événements ayant lieu sur Laval afin de proposer à ses adhérents ceux en rapport avec l’audiovisuel. ",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Compagnie Banshees",
+      "position": "En charge de la communication",
+      "startDate": "2018-09-30",
+      "endDate": "",
+      "summary": "Je suis en charge avec d'autres membres de la compagnie de la communication externe (presse, réseaux sociaux, site internet...)",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Ligue de Bretagne de Natation",
+      "position": "Community Manager",
+      "startDate": "2019-04-30",
+      "endDate": "2020-06-30",
+      "summary": "Je suis en charge d'animer les réseaux sociaux Facebook, Instagram et Twitter de la ligue de Bretagne de natation pour apporter de la visibilité aux nageurs bretons et à la ligue en elle-même (ses actions, l'organisation, ses membres...).",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Club Nautique Morlaisien",
+      "position": "Photographe, community manager ",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "summary": "J'étais photographe lors des compétitions et j'étais chargée des publications sur le groupe Facebook du club ainsi que sur leur site internet. ",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "ECV Digital",
+      "area": "",
+      "studyType": "Master développement web",
+      "startDate": "2021-09-30",
+      "endDate": "2023-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sorbonne Université",
+      "area": "Projet web et mobile",
+      "studyType": "Licence professionnelle",
+      "startDate": "2020-01-31",
+      "endDate": "2021-08-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT de Laval",
+      "area": "Métiers du multimédia et de l'internet",
+      "studyType": "DUT",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Notre Dame du Mur",
+      "area": "Économie",
+      "studyType": "Baccalauréat",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Atelier RGPD",
+      "issuer": "CNIL",
+      "startDate": "2020-02-28"
+    },
+    {
+      "name": "Google Analytics pour les débutants",
+      "issuer": "Google",
+      "endDate": "2023-02-28",
+      "startDate": "2020-02-28"
+    },
+    {
+      "name": "BNSSA ",
+      "issuer": "SDIS 29"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Développement front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Création de sites web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Réseaux sociaux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infographie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Natation sportive",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Creative Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Affinity Designer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sens de l’organisation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Création de contenu web",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Anglais"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Webdocumentaire sur les serials killers",
+      "startDate": "2020-04-30",
+      "summary": "Ce webdocumentaire est uniquement disponible en version desktop.\n\nMon objectif, à travers ce web-documentaire est de montrer à l’utilisateur qui\nsont les tueurs en série, leur façon de penser, leur personnalité, les\ntraumatismes qui ont pu mener à ces troubles du comportement . \n\nÀ travers celui-ci, l’utilisateur va pouvoir naviguer sur\ndifférentes pages qui exposent différentes facettes des serials killers. Cela va lui\npermettre de récolter des informations sur ce sujet, de comprendre la façon de\npenser des serials killers et ce qui les pousses à tuer.",
+      "url": "http://www.serialkiller.clairedornic.fr/",
+      "endDate": "2020-06-30"
+    },
+    {
+      "name": "Réalisation du site web de l'entreprise Morlaisienne La Maison du Batîment",
+      "startDate": "2019-09-30",
+      "summary": "Ce projet m'a permis de découvrir et d'apprendre à maîtriser le CMS Wordpress, le framework Boostrap ainsi que les technologies Sass, Gulp, Git. Un projet très enrichissant auquel j'ai participé durant mon alternance chez l'agence de communication Appaloosa. ",
+      "url": "https://www.la-maison-du-batiment.com",
+      "endDate": "2019-12-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
